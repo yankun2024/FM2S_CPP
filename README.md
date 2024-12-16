@@ -7,9 +7,9 @@ Fluorescence microscopy has significantly advanced biological research by visual
 
 ## Visualization
 
-![](C:\Users\Daniel\Desktop\FM2S\images\Intro.png)
+![](images\Intro.png)
 
-![](C:\Users\Daniel\Desktop\FM2S\images\effects.png)
+![](images\effects.png)
 
 
 ## Getting Start
