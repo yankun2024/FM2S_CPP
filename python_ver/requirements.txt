@@ -1,0 +1,6 @@
+tqdm
+torch
+numpy
+argparse
+scikit-image
+opencv-python-headless
